@@ -1,4 +1,4 @@
-### Hello stranger! 👋
+## Hello stranger! 👋
 Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
 ### Languages
