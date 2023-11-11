@@ -31,9 +31,7 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
 #### 🌐 Websites
 
-[![Jordi's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/6351280?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/6351280")
-
-<a href="https://stackoverflow.com/users/6351280/jacobytes"><img src="https://stackoverflow.com/users/flair/6351280.png?theme=clean" width="208" height="58" alt="profile for jacobytes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for jacobytes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![Jordi's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/6351280?color=orange&label=Stackoverflow&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/6351280")
 
 <!--
 **jacobytes/jacobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
