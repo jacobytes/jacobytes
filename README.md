@@ -1,7 +1,7 @@
 ## Hello stranger! 👋
 Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
-##### 🌐 Languages
+##### ⚡ Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,9 +29,9 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 #### 📖 Learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-#### Websites
+#### 🌐 Websites
 
-!<a href="https://stackoverflow.com/users/6351280/jacobytes"><img src="https://stackoverflow.com/users/flair/6351280.png?theme=clean" width="208" height="58" alt="profile for jacobytes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for jacobytes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/6351280/jacobytes"><img src="https://stackoverflow.com/users/flair/6351280.png?theme=clean" width="208" height="58" alt="profile for jacobytes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for jacobytes at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **jacobytes/jacobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
