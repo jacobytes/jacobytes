@@ -20,7 +20,8 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 #### 🧠 AI 
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![Dialogflow](https://img.shields.io/badge/dialogflow-%23FF9900?style=for-the-badge&logo=dialogflow&logoColor=white)
-![Bot Framework](https://img.shields.io/badge/bot%20framework-%23FF9900?style=for-the-badge&logo=bot%20framework&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### 🥇 Certifications
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
