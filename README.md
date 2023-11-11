@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280)
+
 <!--
 **jacobytes/jacobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
