@@ -3,9 +3,13 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
 ## Languages
 **Professionaly**: 
-<p>**Hobby**: 
+![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-fff?&logo=Javascript)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
+![C#](https://img.shields.io/badge/-C#-fff?&logo=C#)
+
+**Currently learning**: 
 ![Go](https://img.shields.io/badge/-Golang-fff?&logo=Go)
-</p>
 
 ## Tools
 
