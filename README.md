@@ -1,8 +1,6 @@
 ## Hello stranger! 👋
 Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
-#### Experience
-
 ##### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,9 +15,7 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 #### Certifications
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-
 #### Learning
-**Currently learning**: 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### Other
