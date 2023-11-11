@@ -1,7 +1,7 @@
 ### Hello stranger! 👋
 Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
-## Languages
+### Languages
 **Professionaly**: 
 ![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-fff?&logo=Javascript)
