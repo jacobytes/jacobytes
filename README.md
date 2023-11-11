@@ -1,7 +1,7 @@
 ## Hello stranger! 👋
 Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
-![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280&theme=dark)
+![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280)
 
 ##### 🌐 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
