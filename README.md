@@ -1,8 +1,6 @@
 ## Hello stranger! 👋
 Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
-![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280)
-
 ##### 🌐 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,6 +28,10 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
 #### 📖 Learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+#### Websites
+
+![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280)
 
 <!--
 **jacobytes/jacobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
