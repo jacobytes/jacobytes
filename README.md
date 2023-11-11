@@ -3,8 +3,9 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
 ## Languages
 **Professionaly**: 
-**Hobby**: 
+<p>**Hobby**: 
 ![Go](https://img.shields.io/badge/-Golang-fff?&logo=Go)
+</p>
 
 ## Tools
 
