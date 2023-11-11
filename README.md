@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hello stranger! 👋
+Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
-![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280)
+## Languages
+**Professionaly**: 
+**Hobby**: 
+https://img.shields.io/badge/-Golang-fff?&logo=Go
+
+## Tools
+
+
+![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6351280&theme=dark)
 
 <!--
 **jacobytes/jacobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
