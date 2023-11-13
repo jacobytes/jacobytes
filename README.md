@@ -25,8 +25,7 @@ Nice to meet you! I'm Jordi, a backend developer from The Netherlands 🇳🇱
 
 
 #### 🥇 Certifications
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://drive.google.com/file/d/1Zi1ZMmQjzTYGEgp8jVAa4stUsVbUDzTa/view?trk=public_profile_see-credential&pli=1)
-
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 #### 📖 Learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
